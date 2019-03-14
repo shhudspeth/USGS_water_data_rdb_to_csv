@@ -7,6 +7,6 @@ convert the rdb data to csv. Also included is a python script to run that takes 
 
 There are two rdb files as samples (water_use_data and water_use_2) as well as the converted csv files (the .csv files). 
 
-More information about the data can be found at https://water.usgs.gov/watuse/WU-Category-Changes.html. The website knows that 
+More information about the data can be found at https://help.waterdata.usgs.gov/news/Feb-12-2019 or https://water.usgs.gov/watuse/WU-Category-Changes.html. The website knows that 
 their data is in outdated formats and they are working on updating it. This program is intended to address the need
 to put the file in a more updated format. 
